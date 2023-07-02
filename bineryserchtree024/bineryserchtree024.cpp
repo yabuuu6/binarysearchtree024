@@ -162,7 +162,7 @@ int main()
 		case '5':
 			return 0; 
 		default:
-		{
+		{ 
 			cout << "Invalid option" << endl;
 			break;
 		}
