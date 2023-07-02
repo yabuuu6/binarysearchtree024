@@ -16,7 +16,7 @@ public:
 		leftchild = l;
 		rightchild = r;
 	}
-};
+}; 
 
 class binarytree
 {
