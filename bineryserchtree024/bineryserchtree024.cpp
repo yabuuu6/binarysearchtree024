@@ -26,7 +26,7 @@ public:
 	binarytree()
 	{
 		ROOT = NULL;
-	}
+	} 
 
 	void insert(string element)
 	{
